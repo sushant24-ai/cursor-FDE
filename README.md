@@ -19,8 +19,3 @@ Northstar Logistics - B2B SaaS logistics, Series C ~$80M ARR. ~250 engineers / 3
 
 High adoption, low scaffolding. Scope a short scaffolding engagement (Team Rules, skills, sub-agents) with a small pilot - not more seats, not a factory program yet.
 
-## Reviewer notes
-
-- Start with the talk track at the top of the scoping doc.
-- Validation checklist against the homework brief is in that same file.
-- Optional discussion bullets: [session-1/NOTES.md](session-1/NOTES.md)
