@@ -1,15 +1,19 @@
 # cursor-FDE
 
-Cursor Partner FDE Bootcamp - APJ 6 deliverables.
+Cursor Partner FDE Bootcamp - **APJ 6** deliverables.
 
-## Session 1 - Workshop 1 / W1.1
+**Status:** Workshop 2 ready (Session 1 homework refined).
 
-**Homework:** Engagement scoping for Northstar Logistics (Phase 1 scaffolding gap).
+## Session 1 homework
+
+Engagement scoping for **Northstar Logistics** (Phase 1 scaffolding gap).
 
 → [`session-1/w1.1-northstar-engagement-scope.md`](session-1/w1.1-northstar-engagement-scope.md)
 
-## Bootcamp context
+Optional live notes: [`session-1/NOTES.md`](session-1/NOTES.md)
+
+## Curriculum anchors
 
 - Unit of FDE value: movement along the AI-native adoption curve
-- Four pillars: Scaffolding → Async work → Factory → Trust & Governance (cross-cutting)
-- Northstar maps to **Scaffolding** (rules, skills, sub-agents, hooks)
+- Pillars: Scaffolding → Async → Factory; Trust & Governance (cross-cutting)
+- Northstar maps to **Scaffolding** (Rules, Skills, Sub-agents, Hooks)
