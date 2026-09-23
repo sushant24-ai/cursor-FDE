@@ -1,18 +1,26 @@
 # cursor-FDE
 
-Cursor Partner FDE Bootcamp - **APJ 6** deliverables.
+Homework for **Cursor Partner FDE Bootcamp - APJ 6**.
 
+**Participant:** Sushant Sikare (@sushant24-ai)  
+**Session:** Workshop 1 / W1.1 (before Workshop 2)
 
-## Session 1 homework
+## Submission
 
-Engagement scoping for **Northstar Logistics** (Phase 1 scaffolding gap).
+| Item | Link |
+|------|------|
+| Engagement scoping (Northstar Logistics) | [session-1/w1.1-northstar-engagement-scope.md](session-1/w1.1-northstar-engagement-scope.md) |
 
-→ [`session-1/w1.1-northstar-engagement-scope.md`](session-1/w1.1-northstar-engagement-scope.md)
+## Case (brief)
 
-Notes: [`session-1/NOTES.md`](session-1/NOTES.md)
+Northstar Logistics - B2B SaaS logistics, Series C ~$80M ARR. ~250 engineers / 30 teams (TypeScript monolith + Go). Cursor ~3 months, ~85% active, no central rules or sub-agents. Ask: gains are real but uneven; level everyone up. Sponsor: VP Eng + two platform staff. Security not in the room. Phase 1 scaffolding gap.
 
-## Curriculum anchors
+## Answer in one line
 
-- Unit of FDE value: movement along the AI-native adoption curve
-- Pillars: Scaffolding → Async → Factory; Trust & Governance (cross-cutting)
-- Northstar maps to **Scaffolding** (Rules, Skills, Sub-agents, Hooks)
+High adoption, low scaffolding. Scope a short scaffolding engagement (Team Rules, skills, sub-agents) with a small pilot - not more seats, not a factory program yet.
+
+## Reviewer notes
+
+- Start with the talk track at the top of the scoping doc.
+- Validation checklist against the homework brief is in that same file.
+- Optional discussion bullets: [session-1/NOTES.md](session-1/NOTES.md)
