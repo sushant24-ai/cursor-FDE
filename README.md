@@ -9,7 +9,7 @@ Homework for **Cursor Partner FDE Bootcamp - APJ 6**.
 
 | Item | Link |
 |------|------|
-| Engagement scoping (Northstar Logistics) | [session-1/w1.1-northstar-engagement-scope.md](session-1/w1.1-northstar-engagement-scope.md) |
+| Engagement scoping (Northstar Logistics) | [Session-1/w1.1-northstar-engagement-scope.md](Session-1/w1.1-northstar-engagement-scope.md) |
 
 ## Case (brief)
 
