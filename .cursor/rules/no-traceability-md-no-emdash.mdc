@@ -1,0 +1,10 @@
+---
+description: Never commit ChangeLog.md Decisions.md or Flow.md to this remote; never use em-dashes in repo prose
+alwaysApply: true
+---
+
+# Repo push rules (cursor-FDE)
+
+- Do **not** create, stage, commit, or push `ChangeLog.md`, `Decisions.md`, or `Flow.md`. They are in `.gitignore`.
+- Allowed markdown on remote: `README.md` and assignment deliverables under `session-*/` (and similar homework paths).
+- Do **not** use em-dashes (`—`) in files or commit messages. Use a hyphen (`-`) or rephrase.

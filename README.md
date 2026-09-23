@@ -1,8 +1,8 @@
 # cursor-FDE
 
-Cursor Partner FDE Bootcamp — APJ 6 deliverables.
+Cursor Partner FDE Bootcamp - APJ 6 deliverables.
 
-## Session 1 — Workshop 1 / W1.1
+## Session 1 - Workshop 1 / W1.1
 
 **Homework:** Engagement scoping for Northstar Logistics (Phase 1 scaffolding gap).
 
